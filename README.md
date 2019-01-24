@@ -6,5 +6,10 @@ BANano is a B4J wrapper to generate one page websites / pwa done by Alain Baille
 
 https://www.b4x.com/android/forum/threads/banano-progressive-web-app-library.99740/
 
+PS: This was previously named BANanoMaterial however, due to this project being a wrapper of an existing rep named UOE, the name has been changed.
+
+1. The structure of UOEBANano is the same as UOE however its for the BANAno framework and has been updated to reflect BANano functionality.
+
+
 
 
